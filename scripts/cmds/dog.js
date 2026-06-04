@@ -32,17 +32,17 @@ module.exports = {
                 bn: {
                         noMention: "× বেবি, কাউকে তো মেনশন দাও",
                         success: "𝐇𝐞𝐫𝐞’𝐬 𝐲𝐨𝐮𝐫 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐃𝐨𝐠 𝐛𝐚𝐛𝐲 🐸",
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD।\n•WhatsApp: 01836298139"
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact OHID।\n•WhatsApp: 01749363687"
                 },
                 en: {
                         noMention: "× Baby, please mention someone!",
                         success: "𝐇𝐞𝐫𝐞’𝐬 𝐲𝐨𝐮𝐫 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥 𝐃𝐨𝐠 𝐛𝐚𝐛𝐲 🐸",
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139"
+                        error: "× API error: %1. Contact OHID for help.\n•WhatsApp: 01749363687"
                 },
                 vi: {
                         noMention: "× Cưng ơi, hãy đề cập đến ai đó",
                         success: "Ảnh của cưng đây",
-                        error: "× Lỗi: %1. Liên hệ MahMUD để hỗ trợ.\n•WhatsApp: 01836298139"
+                        error: "× Lỗi: %1. Liên hệ OHID để hỗ trợ.\n•WhatsApp: 01749363687"
                 }
         },
 
