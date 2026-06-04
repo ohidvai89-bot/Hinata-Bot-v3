@@ -27,17 +27,17 @@ module.exports = {
 
         langs: {
                 bn: {
-                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact MahMUD|\n•WhatsApp: 01836298139",
+                        error: "× সমস্যা হয়েছে: %1। প্রয়োজনে Contact OHID|\n•WhatsApp: 01749363687",
                         banned: "❌ মিডিয়া ব্যানড করা হয়েছে!",
                         auth: "You are not authorized to change the author name."
                 },
                 en: {
-                        error: "× API error: %1. Contact MahMUD for help.\n•WhatsApp: 01836298139",
+                        error: "× API error: %1. Contact OHID for help.\n•WhatsApp: 01749363687",
                         banned: "❌ Media is banned!",
                         auth: "You are not authorized to change the author name."
                 },
                 vi: {
-                        error: "× Lỗi: %1. Liên hệ MahMUD để hỗ trợ.\n•WhatsApp: 01836298139",
+                        error: "× Lỗi: %1. Liên hệ OHIDD để hỗ trợ.\n•WhatsApp: 01749363687",
                         banned: "❌ Phương tiện bị cấm!",
                         auth: "You are not authorized to change the author name."
                 }
