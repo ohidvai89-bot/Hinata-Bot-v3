@@ -28,21 +28,21 @@ module.exports = {
                 bn: {
                         noCmd: "❌ | \"%1\" নামে কোনো কমান্ড খুঁজে পাইনি।",
                         invalidPage: "❌ | ভুল পেজ নাম্বার। ১ থেকে %1 এর মধ্যে লিখুন।",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact OHID %1",
                         replyError: "তোমার জন্য না বেবি 🐸",
                         choose: "কমান্ডের ইউআরএল দেখতে নাম্বার লিখে রিপ্লাই দাও।"
                 },
                 en: {
                         noCmd: "❌ | No commands found for \"%1\".",
                         invalidPage: "❌ | Invalid page number. Enter between 1 and %1.",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact OHID %1",
                         replyError: "not your reply baby 🐸",
                         choose: "Reply with a number to see the command URL."
                 },
                 vi: {
                         noCmd: "❌ | Không tìm thấy lệnh nào cho \"%1\".",
                         invalidPage: "❌ | Số trang không hợp lệ. Nhập từ 1 đến %1.",
-                        error: "❌ An error occurred: contact MahMUD %1",
+                        error: "❌ An error occurred: contact OHID %1",
                         replyError: "không phải phản hồi của bạn baby 🐸",
                         choose: "Trả lời bằng số để xem URL lệnh."
                 }
