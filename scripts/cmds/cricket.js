@@ -110,7 +110,7 @@ module.exports = {
       );
     } catch (error) {
       console.error("Error:", error.message);
-      api.sendMessage("🥹error, contact MahMUD.", event.threadID, event.messageID);
+      api.sendMessage("🥹error, contact OHID.", event.threadID, event.messageID);
     }
   }
 };
